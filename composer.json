@@ -1,0 +1,9 @@
+{
+    "name": "vagrant/tree",
+    "autoload": {
+        "psr-4": {
+            "Vagrant\\Tree\\": "src/"
+        }
+    },
+    "require": {}
+}
