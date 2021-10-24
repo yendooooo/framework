@@ -6,6 +6,14 @@ use Vagrant\Tree\Routes\Middleware;
 use Vagrant\Tree\Database\Adaptor;
 use Vagrant\Tree\Session\DatabaseSessionHandler;
 
+/**
+ * 1. 데이터베이스 연결
+ * 2. 세션 켜는 일
+ * 3. 에러 핸들러 등록하기
+ * 4. 환경 설정하기
+ */
+
+
 
 Adaptor::setup('mysql:dbname=tree', 'homestead', 'secret');
 
