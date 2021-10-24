@@ -1,5 +1,5 @@
 {
-    "name": "Taeyoung/tree",
+    "name": "taeyoung/tree",
     "autoload": {
         "psr-4": {
             "Taeyoung\\Tree\\": "src/"
