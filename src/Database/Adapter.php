@@ -18,10 +18,9 @@ class Adapter
         }
     }
 
-    public static function getAll($query, $params = [], $classname = 'stdClass') 
-    {
-        if(self::exec($query, $params)) {
-            return self::$sth->fetchAll(PDO::FETCH_CLASS, $classname);
-        }
+public static function getAll($query, $params = [], $classname = 'stdClass')
+{
+    if (self::exec($query, $params)) {
+        return self::$sth->fetchAll(\PDO::FETCH_CLASS, $classname);
     }
 }
