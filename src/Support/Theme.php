@@ -1,6 +1,6 @@
 <?php
 
-namespace Vagrant\Tree\Support;
+namespace Taeyoung\Tree\Support;
 
 class Theme
 {

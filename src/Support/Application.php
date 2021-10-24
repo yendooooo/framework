@@ -1,8 +1,8 @@
 <?php
 
-namespace Vagrant\Tree;
+namespace Taeyoung\Tree;
 
-use Vagrant\Tree\Support\ServiceProvider;
+use Taeyoung\Tree\Support\ServiceProvider;
 
 class Application
 {

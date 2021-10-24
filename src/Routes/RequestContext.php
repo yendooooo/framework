@@ -1,6 +1,6 @@
 <?php
 
-namespace Vagrant\Tree\Routes;
+namespace Taeyoung\Tree\Routes;
 
 class RequestContext 
 {

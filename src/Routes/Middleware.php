@@ -1,6 +1,6 @@
 <?php
 
-namespace Vagrant\tree\Routes;
+namespace Taeyoung\tree\Routes;
 
 abstract class Middleware
 {

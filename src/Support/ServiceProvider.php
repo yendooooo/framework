@@ -1,6 +1,6 @@
 <?php
 
-namespace Vagrant\Tree\Support;
+namespace Taeyoung\Tree\Support;
 
 abstract class ServiceProvider
 {

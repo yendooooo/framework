@@ -1,6 +1,6 @@
 <?php
 
-namespace Vagrant\Tree\Http;
+namespace Taeyoung\Tree\Http;
 
 class Request 
 {

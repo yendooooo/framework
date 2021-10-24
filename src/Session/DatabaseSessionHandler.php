@@ -1,7 +1,7 @@
 <?php
 
-namespace Vagrant\Tree\Session;
-use Vagrant\Tree\Database\Adaptor;
+namespace Taeyoung\Tree\Session;
+use Taeyoung\Tree\Database\Adaptor;
 
 class DatabaseSessionHandler implements \SessionHandlerInterface
 {

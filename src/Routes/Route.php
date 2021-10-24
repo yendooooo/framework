@@ -1,9 +1,9 @@
 <?php
 
-namespace Vagrant\Tree\Routes;
+namespace Taeyoung\Tree\Routes;
 
-use Vagrant\Tree\Routes\RequestContext;
-use Vagrant\Tree\Http\Request;
+use Taeyoung\Tree\Routes\RequestContext;
+use Taeyoung\Tree\Http\Request;
 
 class Route
 {

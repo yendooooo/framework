@@ -1,10 +1,10 @@
 <?php
 require_once './vendor/autoload.php';
 
-use Vagrant\Tree\Routes\Route;
-use Vagrant\Tree\Routes\Middleware;
-use Vagrant\Tree\Database\Adaptor;
-use Vagrant\Tree\Session\DatabaseSessionHandler;
+use Taeyoung\Tree\Routes\Route;
+use Taeyoung\Tree\Routes\Middleware;
+use Taeyoung\Tree\Database\Adaptor;
+use Taeyoung\Tree\Session\DatabaseSessionHandler;
 
 /**
  * 1. 데이터베이스 연결

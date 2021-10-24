@@ -1,5 +1,5 @@
 <?php
-namespace Vagrant\Tree\Database;
+namespace Taeyoung\Tree\Database;
 
 class Adaptor
 {
